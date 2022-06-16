@@ -1,0 +1,31 @@
+section {
+    padding-top: 50px;
+}
+
+.carousel {
+    padding-top: 30px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width: 20px;
+}
+
+.carousel-control-prev {
+    left: -35px;
+}
+
+.carousel-control-next {
+    right: -35px;
+}
+
+.footer {
+    background-color: lightgrey;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    justify-content: center;
+}
